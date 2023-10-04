@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>MEDLATEC HÀ NỘI</title>
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://vr360.com.vn/projects/medlatec-hanoi/">
+		<meta property="og:title" content="MEDLATEC HÀ NỘI BY TRUNGCTR">
+		<meta property="og:description" content="MEDLATEC HÀ NỘI BY TRUNGCTR">
+		<meta property="og:image" content="./thumb.jpg">
+		<link rel="shortcut icon" href="./favicon.svg">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<style type="text/css" title="Default">
+			/* fullscreen */
+			html {
+				height: 100%;
+			}
+
+			body {
+				height: 100%;
+				margin: 0px;
+				overflow: hidden;
+				/* disable scrollbars */
+				-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+				/* remove highlight on tab for iOS/Android */
+			}
+
+			/* fix for scroll bars on webkit & >=Mac OS X Lion */
+			::-webkit-scrollbar {
+				background-color: rgba(0, 0, 0, 0.5);
+				width: 0.75em;
+			}
+
+			::-webkit-scrollbar-thumb {
+				background-color: rgba(255, 255, 255, 0.5);
+			}
+
+			.ctr-button {
+				border: none;
+				text-align: center center !important;
+				;
+				padding: 5px 20px;
+				margin-top: 10px;
+				color: #ffffff;
+				background-color: rgba(10, 107, 173, 0.734);
+				height: 50px;
+				width: 200px;
+			}
+
+			.sys-note {
+				font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+				border: none;
+				padding: 20px;
+				color: #ffff;
+				background-color: rgba(10, 107, 173, 0.734);
+				width: 364px;
+				text-align: center;
+			}
+
+			.ctr-button:hover {
+				border: 2px solid rgba(255, 255, 255, 1);
+			}
+
+			#intro_menu {
+				position: absolute;
+				bottom: 20%;
+				left: 50%;
+				transform: translateX(-50%);
+				-moz-transform: translateX(-50%);
+				-webkit-transform: translateX(-50%);
+				-o-transform: translateX(-50%);
+				-ms-transform: translateX(-50%);
+			}
+
+		</style>
+	</head>
+
+	<body>
+		<!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
+		<script type="text/javascript" src="pano2vr_player.js">
+		</script>
+		<script type="text/javascript" src="skin.js">
+		</script>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Calistoga&display=swap" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" />
+		<link rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Encode+Sans:wdth,wght@110,397&family=Roboto&display=swap" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" />
+		<link rel="stylesheet" href="3rdparty/leaflet/leaflet.css" />
+		<script src="3rdparty/leaflet/leaflet.js"></script>
+		<script src="webxr/three.min.js"></script>
+		<script src="webxr/webxr-polyfill.min.js"></script>
+		<div id="container" style="width:100%;height:100%;overflow:hidden;">
+			<br>Loading...<br><br>
+		</div>
+		<script type="text/javascript">
+			function runEnglish()
+			{
+				UI_text.english = true
+				UI_text.title = UI_text.EN.title
+				// create the panorama player with the container
+				pano = new pano2vrPlayer("container");
+				// add the skin object
+				skin = new pano2vrSkin(pano);
+				// load the configuration
+				pano.readConfigUrlAsync("EN.xml");
+				document.getElementById('container').style.display = ''
+				document.getElementById('languages-slr').style.display = 'none'
+			};
+			
+			function runVietnamese()
+			{
+				UI_text.english = false
+				UI_text.title = UI_text.VN.title
+				// create the panorama player with the container
+				pano = new pano2vrPlayer("container");
+				// add the skin object
+				skin = new pano2vrSkin(pano);
+				// load the configuration
+				pano.readConfigUrlAsync("VN.xml");
+				document.getElementById('container').style.display = ''
+				document.getElementById('languages-slr').style.display = 'none'
+			}
+
+			function selectLanguage()
+			{
+				const basepath = location.href
+				document.getElementById('container').style.display = 'none'
+				const form = `
+				<div id='languages-slr' style="position:relative;
+					z-index:9999; top:0;
+					left:0;
+					width:100%;
+					height:100%;
+				 	background-image: url('./assets/img/bg_intro.jpg');
+					background-repeat: no-repeat;
+					background-attachment: fixed;
+					background-size: 100% 100%;">
+					<div class='' id='confirm-sound'>
+						<div id="intro_menu">
+							<div class='sys-note'>
+								MELATEC<br/>Xin mời chọn ngôn ngữ !<br/>(Select your language please !).
+							</div>
+							<div>
+								<button class="intro ctr-button" id="vn-btn">Tiếng Việt</button>
+								<button class="intro ctr-button" id="en-btn">English</button>
+							</div>
+						</div>
+			</div>
+	
+				</div>
+				`
+				document.body.insertAdjacentHTML('afterbegin', form)
+				document.getElementById('vn-btn').onclick = runVietnamese
+				document.getElementById('en-btn').onclick = runEnglish
+			}
+
+			window.addEventListener("load", function ()
+			{
+				selectLanguage()
+			});
+
+			if (window.navigator.userAgent.match(/iPhone/i)) {
+				// fix for white borders, rotation on iPhone
+				function iosHfix()
+				{
+					window.scrollTo(0, 1);
+					document.documentElement.style.setProperty('height', '100vh');
+				};
+				window.addEventListener('orientationchange', function ()
+				{
+					setTimeout(iosHfix, 0);
+					setTimeout(iosHfix, 200);
+					setTimeout(iosHfix, 2000);
+				});
+			}
+		</script>
+		<noscript>
+			<p><b>Please enable Javascript!</b></p>
+		</noscript>
+		<!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
+	</body>
+
+</html>

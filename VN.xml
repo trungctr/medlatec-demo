@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18076" start="node90" appversion="6.1.12">
+  <panorama id="node90" hideabout="1">
+    <input levelingroll="0" cylinder="1" levelbias="0.400" height="2730" overlap="1" leveltilesize="510" flat="1" levelingpitch="0" width="4095" levelbiashidpi="1.000" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2730" width="4095" preload="0" predecode="0"/>
+      <level height="1365" width="2047" preload="0" predecode="0"/>
+      <level height="682" width="1023" preload="0" predecode="0"/>
+      <level height="341" width="511" preload="0" predecode="0"/>
+      <level height="170" width="255" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="300" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="0" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="" latitude="" author="" title="" nodeid="node90" tags="img" customnodeid="" copyright="" info="" longitude="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+      <sound tilt="-4.410" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="22.200" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F1.m4a"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="3750" overlap="1" leveltilesize="510" levelingpitch="0" width="3750" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="3750" width="3750" preload="0" predecode="0"/>
+      <level height="1875" width="1875" preload="0" predecode="0"/>
+      <level height="937" width="937" preload="0" predecode="0"/>
+      <level height="468" width="468" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="254.251" fovmode="0">
+      <start tilt="0.77" fov="70" pan="-16.32" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="-116.16"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="84.84" fovstereographic="270"/>
+    </view>
+    <userdata source="2" description="" comment="" datetime="6/13/2022 3:36 PM" latitude="" author="" title="Khu vực nhận mẫu ban đầu" nodeid="node18" tags="1|pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="254.251">
+      <mapcoords y="-1.29381" x_floorplan_percent="39.1391" mapid="FloorPlan01" y_floorplan_percent="75.8784" x="0.471382"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node49}" tilt="-20.84" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-74.76" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-12.510" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-340.690" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F2.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.300" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input levelingroll="-1" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="4.48788" fovmode="0">
+      <start tilt="-2.82" fov="70" pan="4.81" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="-160.47"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="153.49" fovstereographic="270"/>
+    </view>
+    <userdata source="14" description="" comment="" datetime="6/13/2022 2:10 PM" latitude="" author="" title="Khu vực hệ thống tự động hoàn toàn ROCHE" nodeid="node49" tags="13|pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="4.48788">
+      <mapcoords y="-1.05452" x_floorplan_percent="39.4384" mapid="FloorPlan01" y_floorplan_percent="61.8444" x="0.474987"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Cobas-8100.png" tilt="-5.52" description="&lt;h4>Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100&lt;/h4>&#xa;Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100 góp phần giải quyết tối ưu về công suất và độ tin cậy của kết quả xét nghiệm.&#xa;&#xa;Hệ thống được kết nối với 2 máy Cobas 8.000 gồm 4 module E602 phân tích miễn dịch công suất xử lý đạt tới 720 test/h, 1 module C702 và 1 module C502 phân tích hóa sinh công suất 2800 test/h." id="Point01" skinid="hs_info" title="&lt;h4> Cobas 8100 &lt;/h4>" pan="-357.81" target="assets/thuyet_minh_tung_may/M1.mp4"/>
+      <hotspot url="{node50}" tilt="-25.45" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-73.5" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node18}" tilt="-6.04" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực nhận mẫu ban đầu" customimageheight="186" distance3D="731.523" pan="-224.65" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node20}" tilt="-5.76" fov="10" description="" id="Point04" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng huyết học" customimageheight="186" distance3D="731.523" pan="-139.19" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-7.090" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-34.280" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F3.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-82.6833" fovmode="0">
+      <start tilt="-0.63" fov="70" pan="3.99" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 2:12 PM" latitude="" author="" title="Khu vực hệ thống tự động hoàn toàn ROCHE" nodeid="node50" tags="pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="-82.6833">
+      <mapcoords y="-0.970402" x_floorplan_percent="46.9071" mapid="FloorPlan01" y_floorplan_percent="56.9113" x="0.564938"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Cobas-8100.png" tilt="-1.86" description="&lt;h4>Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100&lt;/h4>&#xa;Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100 góp phần giải quyết tối ưu về công suất và độ tin cậy của kết quả xét nghiệm.&#xa;&#xa;Hệ thống được kết nối với 2 máy Cobas 8.000 gồm 4 module E602 phân tích miễn dịch công suất xử lý đạt tới 720 test/h, 1 module C702 và 1 module C502 phân tích hóa sinh công suất 2800 test/h." id="Point01" skinid="hs_info" title="&lt;h4> Cobas 8100 &lt;/h4>" pan="-299.66" target="assets/thuyet_minh_tung_may/M1.mp4"/>
+      <hotspot url="{node43}" tilt="-6.4" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-353.37" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="assets/img/Cobas-e801.png" tilt="-3.51" description="&lt;h4> Miễn dịch tự động Cobas e801 &lt;/h4>&#xa;Miễn dịch tự động Cobas e801&#xa;- Công suất: 300 test/h&#xa;- Hãng sản xuất: Roche-Thụy sỹ&#xa;- Cobas e801 có thể nạp thuốc thử liên tục, lên tới 5 hộp thuốc thử 1 lúc." id="Point03" skinid="hs_info" title="&lt;h4> Cobas e801 &lt;/h4>" pan="-67.72" target="assets/thuyet_minh_tung_may/M2.mp4"/>
+      <hotspot url="assets/img/Cobas-c702.png" tilt="-7.11" description="&lt;h4>Hóa sinh tự động Cobas c702&lt;/h4>&#xa;Hóa sinh tự động Cobas c702&#xa;- Công suất: 2000 test/h&#xa;- Hãng sản xuất: Roche-Thụy sỹ" id="Point04" skinid="hs_info" title="&lt;h4> Cobas c702 &lt;/h4>" pan="-42.88" target="assets/thuyet_minh_tung_may/M3.mp4"/>
+      <hotspot url="{node49}" tilt="-6.15" fov="10" description="" id="Point05" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-284.14" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90.9244" fovmode="0">
+      <start tilt="-0.72" fov="70" pan="-89.31" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 3:11 PM" latitude="" author="" title="Khu vực hệ thống tự động hoàn toàn ROCHE" nodeid="node43" tags="pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="-90.9244">
+      <mapcoords y="-0.970402" x_floorplan_percent="42.8022" mapid="FloorPlan01" y_floorplan_percent="56.9113" x="0.515499"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Cobas-c702.png" tilt="-8.46" description="&lt;h4>Hóa sinh tự động Cobas c702&lt;/h4>&#xa;Hóa sinh tự động Cobas c702&#xa;- Công suất: 2000 test/h&#xa;- Hãng sản xuất: Roche-Thụy sỹ" id="Point04" skinid="hs_info" title="&lt;h4> Cobas c702 &lt;/h4>" pan="-59.13" target="assets/thuyet_minh_tung_may/M3.mp4"/>
+      <hotspot url="" tilt="-3.72" description="&lt;h4>Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100&lt;/h4>&#xa;Hệ thống tiền phân tích tự động hoàn toàn Cobas 8100 góp phần giải quyết tối ưu về công suất và độ tin cậy của kết quả xét nghiệm.&#xa;&#xa;Hệ thống được kết nối với 2 máy Cobas 8.000 gồm 4 module E602 phân tích miễn dịch công suất xử lý đạt tới 720 test/giờ, 1 module C702 và 1 module C502 phân tích hóa sinh công suất 2800 test/giờ." id="Point01" skinid="hs_info" title="&lt;h4> Cobas 8100 &lt;/h4>" pan="-275.27" target="assets/thuyet_minh_tung_may/M1.mp4"/>
+      <hotspot url="{node50}" tilt="-22.98" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-207.37" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node54}" tilt="-8.55" fov="10" description="" id="Point05" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" customimageheight="186" distance3D="731.523" pan="-16.13" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/Cobas-e801.png" tilt="-3.06" description="&lt;h4> Miễn dịch tự động Cobas e801 &lt;/h4>&#xa;Miễn dịch tự động Cobas e801&#xa;- Công suất: 300 test/h&#xa;- Hãng sản xuất: Roche-Thụy sỹ&#xa;- Cobas e801 có thể nạp thuốc thử liên tục, lên tới 5 hộp thuốc thử 1 lúc." id="Point03" skinid="hs_info" title="&lt;h4> Cobas e801 &lt;/h4>" pan="-77.62" target="assets/thuyet_minh_tung_may/M2.mp4"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node54" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-1.6194" fovmode="0">
+      <start tilt="-2.82" fov="70" pan="-91.72" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 2:27 PM" latitude="" author="" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" nodeid="node54" tags="pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="-1.6194">
+      <mapcoords y="-0.92783" x_floorplan_percent="30.2737" mapid="FloorPlan01" y_floorplan_percent="54.4146" x="0.364609"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Accelerator_a3600.png" tilt="-4.96" description="&lt;h4>Hệ thống tiền phân tích tự động hoàn toàn Accelerator A3600&lt;/h4>&#xa;Hệ thống tự động A3600&#xa;- Công suất xét nghiệm tại hệ thống có thể đạt tới 1000 test miễn dịch/h và 4400 hóa sinh/h. &#xa;&#xa;Hệ thống gồm 2 modul hóa sinh, 5 modul miễn dịch.&#xa;Các dịch vụ: đáp được gần như hầu hết các xét nghiệm về hóa sinh, miễn dịch, nội tiết - hormone phục vụ trong lâm sàng.&#xa;- Hóa sinh: 60 dịch vụ&#xa;- Miễn dịch - Nội tiết hormone : 80 dịch vụ" id="Point02" skinid="hs_info" title="&lt;h4> Accelerator A3600 &lt;/h4>" pan="-184.31" target="assets/thuyet_minh_tung_may/M4.mp4"/>
+      <hotspot url="assets/img/Liaison-XL.png" tilt="43.35" description="&lt;h4> Miễn dịch tự động LIAISON XL &lt;/h4>&#xa;Máy ELISA: Triturus tự động hoàn toàn, có khả năng nạp mẫu liên tục, cùng lúc thực hiện được 4 loại XN khác nhau. 2 máy LIAISON tự động chuyên để chạy các XN đặc biệt trên các hệ thống khác không có như kháng thể kháng Phospholipid, vi rus HSV, sởi ,thủy đậu, quai bị, chalmydia.&#xa;- Công suất: 1600 test/h&#xa;- Hãng sản xuất: Abbott-Mỹ" id="Point01" skinid="hs_info" title="&lt;h4> Liaison XL &lt;/h4>" pan="-30.54" target="_blank"/>
+      <hotspot url="{node56}" tilt="-19.26" fov="10" description="" id="Point05" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" customimageheight="186" distance3D="731.523" pan="-0.82" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="{node43}" tilt="-3.5" fov="10" description="" id="Point06" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-127.71" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/Liaison-XL.png" tilt="-4.4" description="&lt;h4>Miễn dịch tự động LIAISON XL&lt;/h4>&#xa;Miễn dịch tự động LIAISON XL&#xa;- Công suất: 180 test/h&#xa;- Hãng sản xuất: DiaSorin-Đức" id="Point03" skinid="hs_info" title="&lt;h4> LIAISON XL &lt;/h4>" pan="-27.45" target="_blank"/>
+    </hotspots>
+    <media>
+      <sound tilt="-8.060" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-86.700" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F4.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="56.2508" fovmode="0">
+      <start tilt="-0.66" fov="70" pan="60.3" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 2:36 PM" latitude="" author="" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" nodeid="node56" tags="pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="56.2508">
+      <mapcoords y="-0.786381" x_floorplan_percent="30.1454" mapid="FloorPlan01" y_floorplan_percent="46.119" x="0.363064"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Abbott-i2000.png" tilt="-9.4" description="&lt;h4>Miễn dịch tự động Abbott I2000&lt;/h4>&#xa;Miễn dịch tự động Abbott I2000&#x9;&#xa;- Công suất: 2000 test/h&#xa;- Hãng sản xuất: Abbott-Mỹ" id="Point06" skinid="hs_info" title="&lt;h4> Abbott I2000 &lt;/h4>" pan="-268.41" target="assets/thuyet_minh_tung_may/M6.mp4"/>
+      <hotspot url="{node54}" tilt="-16.13" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" customimageheight="186" distance3D="731.523" pan="-121.72" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="{node57}" tilt="-21.69" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu ELISA" customimageheight="186" distance3D="731.523" pan="-305.44" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/Liaison-XL.png" tilt="-10.55" description="&lt;h4>Miễn dịch tự động LIAISON XL&lt;/h4>&#xa;Miễn dịch tự động LIAISON XL&#xa;- Công suất: 180 test/h&#xa;- Hãng sản xuất: DiaSorin-Đức" id="Point03" skinid="hs_info" title="&lt;h4> LIAISON XL &lt;/h4>" pan="-101.87" target="_blank"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node57" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="-1" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="269.679" fovmode="0">
+      <start tilt="1.25" fov="70" pan="-179.85" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="17" description="" comment="" datetime="6/13/2022 2:37 PM" latitude="" author="" title="Khu ELISA" nodeid="node57" tags="16|pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="269.679">
+      <mapcoords y="-0.662613" x_floorplan_percent="30.516" mapid="FloorPlan01" y_floorplan_percent="38.8604" x="0.367527"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Abbott-i2000.png" tilt="-12.02" description="&lt;h4>Miễn dịch tự động Abbott I2000&lt;/h4>&#xa;Miễn dịch tự động Abbott I2000&#x9;&#xa;- Công suất: 2000 test/h&#xa;- Hãng sản xuất: Abbott-Mỹ" id="Point06" skinid="hs_info" title="&lt;h4> Abbott I2000 &lt;/h4>" pan="-322.77" target="assets/thuyet_minh_tung_may/M6.mp4"/>
+      <hotspot url="{node56}" tilt="-17.41" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" customimageheight="186" distance3D="731.523" pan="-275.37" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/Liaison-XL.png" tilt="-3.23" description="&lt;h4>Miễn dịch tự động LIAISON XL&lt;/h4>&#xa;Miễn dịch tự động LIAISON XL&#xa;- Công suất: 180 test/h&#xa;- Hãng sản xuất: DiaSorin-Đức" id="Point03" skinid="hs_info" title="&lt;h4> LIAISON XL &lt;/h4>" pan="-265.82" target="_blank"/>
+      <hotspot url="{node63}" tilt="0.38" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng xét nghiệm nước tiểu" customimageheight="186" distance3D="731.523" pan="-11.09" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-8.260" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-173.380" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F5.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node63" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="1" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-83.7318" fovmode="0">
+      <start tilt="1.95" fov="70" pan="3.07" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="19" description="" comment="" datetime="6/13/2022 2:51 PM" latitude="" author="" title="Phòng xét nghiệm nước tiểu" nodeid="node63" tags="18|pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="-83.7318">
+      <mapcoords y="-0.872555" x_floorplan_percent="18.8426" mapid="FloorPlan01" y_floorplan_percent="51.1729" x="0.226936"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Labumat&amp;Urised2.png" tilt="-1.76" description="&lt;h4> Hệ thống tích hợp phân tích nước tiểu &amp; cặn tự động LabUMat &lt;/h4>&#xa;LabUmat: &#xa;- Công suất: 240 test/h&#xa;- Hãng sản xuất: 77 Elektronika – Hungary" id="Point01" skinid="hs_info" title="&lt;h4> Labumat &amp; Urised2 &lt;/h4>" pan="-319.73" target="assets/thuyet_minh_tung_may/M7.mp4"/>
+      <hotspot url="{node54}" tilt="-5.34" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ABBOTT" customimageheight="186" distance3D="731.523" pan="-181.78" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node89}" tilt="-5.61" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng đọc kết quả tế bào giải phẫu bệnh" customimageheight="186" distance3D="731.523" pan="-293.92" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="assets/img/Labumat&amp;Urised2.png" tilt="-3.14" description="&lt;h4> Hệ thống tích hợp phân tích nước tiểu &amp; cặn tự động UriSed 2 &lt;/h4>&#xa;UriSed: &#xa;- Công suất: 120test/h&#xa;- Hãng sản xuất: 77 Elektronika – Hungary" id="Point01" skinid="hs_info" title="&lt;h4> Labumat &amp; Urised2 &lt;/h4>" pan="-345.73" target="assets/thuyet_minh_tung_may/M8.mp4"/>
+    </hotspots>
+    <media>
+      <sound tilt="-13.920" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-337.110" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F6.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node89" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-55.7135" fovmode="0">
+      <start tilt="-1.2" fov="70" pan="-58.27" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="-111.02"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="58.03" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="8/19/2022 4:38 PM" latitude="" author="" title="Phòng đọc kết quả tế bào giải phẫu bệnh" nodeid="node89" tags="pic|Tang6" customnodeid="" copyright="" info="" longitude="" heading="-55.7135">
+      <mapcoords y="-0.941391" x_floorplan_percent="11.6876" mapid="FloorPlan01" y_floorplan_percent="55.2099" x="0.140762"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node63}" tilt="-6.15" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng xét nghiệm nước tiểu" customimageheight="186" distance3D="731.523" pan="-94.5" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node20}" tilt="-7.48" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng huyết học" customimageheight="186" distance3D="731.523" pan="-312.94" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-18.640" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-59.500" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F7.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="149.775" fovmode="0">
+      <start tilt="-0.41" fov="70" pan="59.78" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 3:46 PM" latitude="" author="" title="Phòng huyết học" nodeid="node20" tags="pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="149.775">
+      <mapcoords y="-0.834789" x_floorplan_percent="65.6499" mapid="FloorPlan01" y_floorplan_percent="48.958" x="0.790672"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node22}" tilt="-18.26" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng huyết học" customimageheight="186" distance3D="731.523" pan="-260.23" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/STA_R-MAX.png" tilt="-8.38" description="&lt;h4> Máy đông máu tự động STA R-MAX &lt;/h4>&#xa;Máy đông máu tự động STA R-MAX&#x9;&#xa;- Công suất: 200 test/h&#xa;- Hãng sản xuất: Stago-Pháp" id="Point05" skinid="hs_info" title="&lt;h4> STA R-MAX &lt;/h4>" pan="-299.66" target="assets/thuyet_minh_tung_may/M9.mp4"/>
+      <hotspot url="assets/img/Q-Station.png" tilt="-4.2" description="&lt;h4> Máy panel dị ứng 60 dị nguyên Q Station &lt;/h4>&#xa;Máy panel dị ứng 60 dị nguyên Q Station&#xa;- Có thể xét nghiệm cùng lúc 48 mẫu trong 1 lần chạy&#xa;- Thời gian xét nghiệm 48 mẫu/3-4 giờ&#xa;- Hãng sản xuất: Promotec - Hàn Quốc" id="Point08" skinid="hs_info" title="&lt;h4> Q Station &lt;/h4>" pan="-73.99" target="assets/thuyet_minh_tung_may/M16.mp4"/>
+      <hotspot url="assets/img/Capillarys-3.png" tilt="-7.31" description="&lt;h4> Máy điện di mao quản Capillarys 3 &lt;/h4>&#xa;Máy điện di mao quản Capillarys 3&#xa;- Công suất: 70 mẫu/h&#xa;- Hãng sản xuất: Sebia-Pháp" id="Point07" skinid="hs_info" title="&lt;h4> Capillarys 3 &lt;/h4>" pan="-131.79" target="assets/thuyet_minh_tung_may/M15.mp4"/>
+      <hotspot url="{node88}" tilt="-6.7" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Kho lạnh nuôi mẫu" customimageheight="186" distance3D="731.523" pan="-199.01" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node49}" tilt="-0.64" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực hệ thống tự động hoàn toàn ROCHE" customimageheight="186" distance3D="731.523" pan="-165.48" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-18.520" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-302.510" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F8.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelingroll="-1" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-136.305" fovmode="0">
+      <start tilt="1.06" fov="70" pan="-133.09" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="6/13/2022 3:52 PM" latitude="" author="" title="Phòng huyết học" nodeid="node22" tags="pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="-136.305">
+      <mapcoords y="-0.762691" x_floorplan_percent="71.7788" mapid="FloorPlan01" y_floorplan_percent="44.7297" x="0.864487"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node20}" tilt="-26.86" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng huyết học" customimageheight="186" distance3D="731.523" pan="-26.43" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/STA_R-MAX.png" tilt="-10.35" description="&lt;h4> Máy đông máu tự động STA R-MAX &lt;/h4>&#xa;Máy đông máu tự động STA R-MAX&#x9;&#xa;- Công suất: 200 test/h&#xa;- Hãng sản xuất: Stago-Pháp" id="Point05" skinid="hs_info" title="&lt;h4> STA R-MAX &lt;/h4>" pan="-350.57" target="assets/thuyet_minh_tung_may/M9.mp4"/>
+      <hotspot url="assets/img/XN-1000.png" tilt="5.64" description="&lt;h4> Máy phân tích huyết học laser Sysmex XN-1000 &lt;/h4>&#xa;Máy phân tích huyết học laser Sysmex XN-1000&#x9;&#xa;- Công suất: 100 test/h&#xa;- Hãng sản xuất: Sysmex-Nhật Bản" id="Point06" skinid="hs_info" title="&lt;h4> XN-1000 &lt;/h4>" pan="-131.65" target="assets/thuyet_minh_tung_may/M10.mp4"/>
+      <hotspot url="assets/img/DxFLEX.png" tilt="-9.01" description="&lt;h4> Máy phân tích tế bào dòng chảy DxFLEX Flow Cytometer &lt;/h4>&#xa;Hệ thống đếm tế bào dòng chảy DxFLEX được thiết kế cho các ứng dụng chẩn đoán lâm sàng. &#xa;- DxFLEX là một công cụ phân tích hiệu quả với thiết kế nhỏ gọn, quy trình cài đặt và vận hành đơn giản. Công suất: 60 mẫu/h, 1 lần đo liên tục 32 vị trí.&#xa;Hãng sản xuất: Beckman Coulter-Mỹ.&#xa; - Công suất: 60 mẫu/h, 1 lần đo liên tục 32 vị trí.&#xa; - Hãng sản xuất: Beckman Coulter-Mỹ" id="Point06" skinid="hs_info" title="&lt;h4> DxFLEX &lt;/h4>" pan="-87.62" target="assets/thuyet_minh_tung_may/M14.mp4"/>
+      <hotspot url="assets/img/Bio-Rad_D100.png" tilt="-5.37" description="&lt;h4> Máy xét nghiệm HbA1c Bio-Rad D100 &lt;/h4>&#xa;Máy xét nghiệm HbA1c Bio-Rad D100&#xa;- Công suất: 80 test/giờ&#xa;- Hãng sản xuất: Biorad - Pháp" id="Point04" skinid="hs_info" title="&lt;h4> Bio-Rad D100 &lt;/h4>" pan="-54.51" target="assets/thuyet_minh_tung_may/M12.mp4"/>
+      <hotspot url="{node36}" tilt="5.45" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng tách chiết sinh học phân tử tự động" customimageheight="186" distance3D="731.523" pan="-151.8" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node30}" tilt="-3.63" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng vi sinh - ký sinh" customimageheight="186" distance3D="731.523" pan="-202.64" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="assets/img/XN-1000.png" tilt="4.44" description="&lt;h4> Máy phân tích huyết học laser Sysmex XN-1000 &lt;/h4>&#xa;Máy phân tích huyết học laser Sysmex XN-1000&#x9;&#xa;- Công suất: 100 test/h&#xa;- Hãng sản xuất: Sysmex-Nhật Bản" id="Point07" skinid="hs_info" title="&lt;h4> XN-1000 &lt;/h4>" pan="-170.79" target="assets/thuyet_minh_tung_may/M10.mp4"/>
+      <hotspot url="assets/img/Ortho-Vision.png" tilt="2.54" description="&lt;h4> Máy nhóm máu tự động Ortho Vision &lt;/h4>Máy nhóm máu tự động Ortho Vision&#xa;- Công suất: 40 test/h&#xa;- Hãng sản xuất: Ortho Clinical-Thụy Sĩ" id="Point08" skinid="hs_info" title="&lt;h4> Ortho Vision &lt;/h4>" pan="-251.32" target="assets/thuyet_minh_tung_may/M11.mp4"/>
+      <hotspot url="assets/img/Capillarys-3.png" tilt="-2.9" description="&lt;h4> Máy điện di mao quản Capillarys 3 &lt;/h4>&#xa;Máy điện di mao quản Capillarys 3&#xa;- Công suất: 70 mẫu/h&#xa;- Hãng sản xuất: Sebia-Pháp" id="Point09" skinid="hs_info" title="&lt;h4> Capillarys 3 &lt;/h4>" pan="-26.93" target="assets/thuyet_minh_tung_may/M15.mp4"/>
+      <hotspot url="assets/img/HbA1c_Tosoh_G11HPLC.png" tilt="-5.42" description="&lt;h4> Máy xét nghiệm HbA1c Tosoh G11 HPLC &lt;/h4>&#xa;Máy xét nghiệm HbA1c Tosoh G11 HPLC&#xa;- Công suất: 60 test/giờ&#xa;- Hãng sản xuất: Tosoh - Nhật Bản" id="Point10" skinid="hs_info" title="&lt;h4> HbA1c Tosoh G11 HPLC &lt;/h4>" pan="-71.47" target="assets/thuyet_minh_tung_may/M13.mp4"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input levelingroll="-1" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-169.07" fovmode="0">
+      <start tilt="0.12" fov="70" pan="-168.27" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="9" description="" comment="" datetime="6/13/2022 4:10 PM" latitude="" author="" title="Phòng vi sinh - ký sinh" nodeid="node30" tags="8|pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="-169.07">
+      <mapcoords y="-0.760632" x_floorplan_percent="90.7497" mapid="FloorPlan01" y_floorplan_percent="44.6089" x="1.09297"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/BacT-Alert_3D60.png" tilt="-8.28" description="&lt;h4> Máy cấy máu tự động BacT/Alert 3D60 &lt;/h4>&#xa;Máy cấy máu tự động BacT/Alert 3D60&#x9;&#xa;- Công suất: 60 mẫu/lần chạy&#xa;- Hãng sản xuất: Biomerieux-Mỹ" id="Point01" skinid="hs_info" title="&lt;h4> BacT/Alert 3D60 &lt;/h4>" pan="-207.03" target="assets/thuyet_minh_tung_may/M18.mp4"/>
+      <hotspot url="assets/img/VITEK_2.png" tilt="-7.49" description="&lt;h4> Máy định danh vi khuẩn &amp; kháng sinh đồ VITEK 2 &lt;/h4>&#xa;Máy định danh vi khuẩn &amp; kháng sinh đồ VITEK 2&#xa;- Công suất: 60 mẫu/lần chạy, định danh trên 552 loài vi khuẩn&#xa;- Hãng sản xuất: Biomerieux-Mỹ&quot;" id="Point02" skinid="hs_info" title="&lt;h4> VITEK 2 &lt;/h4>" pan="-131.91" target="assets/thuyet_minh_tung_may/M19.mp4"/>
+      <hotspot url="{node32}" tilt="-1.91" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng PCR" customimageheight="186" distance3D="731.523" pan="-168.43" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node22}" tilt="1.07" fov="10" description="" id="Point04" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng huyết học" customimageheight="186" distance3D="731.523" pan="-109.34" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-28.060" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-220.700" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F9.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="89.0481" fovmode="0">
+      <start tilt="0.16" fov="70" pan="0.39" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="12" description="" comment="" datetime="6/13/2022 4:14 PM" latitude="" author="" title="Phòng PCR" nodeid="node32" tags="11|pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="89.0481">
+      <mapcoords y="-0.578671" x_floorplan_percent="87.8136" mapid="FloorPlan01" y_floorplan_percent="33.9374" x="1.05761"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node33}" tilt="2.05" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng sau PCR" customimageheight="186" distance3D="731.523" pan="-360.06" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node30}" tilt="-11.05" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng vi sinh - ký sinh" customimageheight="186" distance3D="731.523" pan="-90.95" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-10.660" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-352.750" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F10.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="1" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="111.127" fovmode="0">
+      <start tilt="0.9" fov="70" pan="-18.68" projection="4"/>
+      <flyin tilt="0.05" fov="80" pan="-21.69" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="13" description="" comment="" datetime="6/13/2022 4:17 PM" latitude="" author="" title="Phòng sau PCR" nodeid="node33" tags="12|pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="111.127">
+      <mapcoords y="-0.574036" x_floorplan_percent="92.6596" mapid="FloorPlan01" y_floorplan_percent="33.6656" x="1.11597"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node32}" tilt="-10.55" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng PCR" customimageheight="186" distance3D="731.523" pan="-115.87" customimagewidth="128" use3D="0" target="$fwd"/>
+      <hotspot url="assets/img/ABI3500.png" tilt="-2.26" description="&lt;h4> Hệ thống giải trình tự &amp; phân tích ADN ABI 3500 &lt;/h4>&#xa;Hệ thống giải trình tự &amp; phân tích ADN ABI 3500&#xa;- Công suất: 360 mẫu /24 giờ&#xa;- Hãng sản xuất: Applied Biosystem-Mỹ" id="Point01" skinid="hs_info" title="&lt;h4> ABI3500 &lt;/h4>" pan="-28.45" target="assets/thuyet_minh_tung_may/M17.mp4"/>
+      <hotspot url="{node36}" tilt="6.11" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng tách chiết sinh học phân tử tự động" customimageheight="186" distance3D="731.523" pan="-63.96" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-11.920" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-24.160" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F11.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-181.414" fovmode="0">
+      <start tilt="0.16" fov="70" pan="2.29" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="6" description="" comment="" datetime="6/13/2022 4:21 PM" latitude="" author="" title="Phòng tách chiết sinh học phân tử tự động" nodeid="node36" tags="5|pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="-181.414">
+      <mapcoords y="-0.564423" x_floorplan_percent="77.3375" mapid="FloorPlan01" y_floorplan_percent="33.1018" x="0.931435"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="assets/img/Cobas-6800.png" tilt="3.63" description="&lt;h4> Hệ thống SHPT tự động Cobas 6800 &lt;/h4>&#xa;Hệ thống SHPT tự động Cobas 6800&#xa;- Công suất: 380 mẫu/8h&#xa;- Hãng sản xuất: Roche - Thụy sỹ" id="Point02" skinid="hs_info" title="&lt;h4> Cobas 6800 &lt;/h4>" pan="-0.39" target="assets/thuyet_minh_tung_may/M20.mp4"/>
+      <hotspot url="assets/img/Alinity-m.png" tilt="0.16" description="&lt;h4> Hệ thống SHPT tự động Alinity M &lt;/h4>&#xa;Hệ thống SHPT tự động Alinity M&#xa;- Công suất: 384 mẫu/8h&#xa;- Hãng sản xuất: Abbott-Mỹ" id="Point03" skinid="hs_info" title="&lt;h4> Alinity M &lt;/h4>" pan="-304.47" target="assets/thuyet_minh_tung_may/M21.mp4"/>
+      <hotspot url="{node33}" tilt="-2.19" fov="10" description="" id="Point04" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng sau PCR" customimageheight="186" distance3D="731.523" pan="-268.69" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node86}" tilt="-6.38" fov="10" description="" id="Point05" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng nuôi cấy tế bào nhiễm sắc thể đồ" customimageheight="186" distance3D="731.523" pan="-70.25" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-14.730" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-5.340" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F12.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node86" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="8/19/2022 4:39 PM" latitude="" author="" title="Phòng nuôi cấy tế bào nhiễm sắc thể đồ" nodeid="node86" tags="pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="0">
+      <mapcoords y="-0.462456" x_floorplan_percent="75.1995" mapid="FloorPlan01" y_floorplan_percent="27.1217" x="0.905685"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node36}" tilt="-1.56" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng tách chiết sinh học phân tử tự động" customimageheight="186" distance3D="731.523" pan="-172.87" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="{node87}" tilt="-4.23" fov="10" description="" id="Point02" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng giải trình tự GEN" customimageheight="186" distance3D="731.523" pan="-308.47" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-5.110" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-4.850" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F13.m4a"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node87" hideabout="1">
+    <input levelingroll="0" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="0" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="91.467" fovmode="0">
+      <start tilt="0.04" fov="70" pan="1.81" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="2022:08:22 10:51:09" latitude="" author="" title="Phòng giải trình tự GEN" nodeid="node87" tags="pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="91.467">
+      <mapcoords y="-0.353279" x_floorplan_percent="75.3848" mapid="FloorPlan01" y_floorplan_percent="20.7188" x="0.907917"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node86}" tilt="-9.9" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Phòng nuôi cấy tế bào nhiễm sắc thể đồ" customimageheight="186" distance3D="731.523" pan="-156.52" customimagewidth="128" use3D="0" target=""/>
+      <hotspot url="assets/img/MGISP-100.png" tilt="-5.83" description="&lt;h4> Hệ thống chuẩn bị thư viện MGISP-100 &lt;/h4>&#xa;Hệ thống chuẩn bị thư viện MGISP-100&#xa;- Công suất: 144 test/ 24h&#xa;- Hãng sản xuất: MGI - Trung Quốc " id="Point02" skinid="hs_info" title="&lt;h4> MGISP-100 &lt;/h4>" pan="-318.38" target="assets/thuyet_minh_tung_may/M23.mp4"/>
+      <hotspot url="assets/img/MGISP-100.png" tilt="-6.16" description="&lt;h4> Hệ thống chuẩn bị thư viện MGISP-100 &lt;/h4>&#xa;Hệ thống chuẩn bị thư viện MGISP-100&#xa;- Công suất: 144 test/ 24h&#xa;- Hãng sản xuất: MGI - Trung Quốc " id="Point02" skinid="hs_info" title="&lt;h4> MGISP-100 &lt;/h4>" pan="-28.63" target="assets/thuyet_minh_tung_may/M23.mp4"/>
+      <hotspot url="{node88}" tilt="1.67" fov="10" description="" id="Point03" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Kho lạnh nuôi mẫu" customimageheight="186" distance3D="731.523" pan="-348.29" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-6.130" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-6.120" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F14.ogg"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <panorama id="node88" hideabout="1">
+    <input levelingroll="2" levelbias="0.400" height="2048" overlap="1" leveltilesize="510" levelingpitch="1" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2048" width="2048" preload="0" predecode="0"/>
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="70.3321" fovmode="0">
+      <start tilt="-0.5" fov="70" pan="73.28" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" description="" comment="" datetime="8/19/2022 4:38 PM" latitude="" author="" title="Kho lạnh nuôi mẫu" nodeid="node88" tags="pic|Tang5" customnodeid="" copyright="" info="" longitude="" heading="70.3321">
+      <mapcoords y="-0.657291" x_floorplan_percent="57.0696" mapid="FloorPlan01" y_floorplan_percent="38.5483" x="0.687332"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" background="1" height="20" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" border="1" wordwrap="1" backgroundalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node18}" tilt="-12.43" fov="10" description="" id="Point01" customimage="media/ping-medlatech.png" skinid="ht_ring" title="Khu vực nhận mẫu ban đầu" customimageheight="186" distance3D="731.523" pan="-55.5" customimagewidth="128" use3D="0" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-7.780" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-281.320" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/F15+F16.mp3"/>
+      </sound>
+      <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
+        <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
+      </sound>
+    </media>
+    <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" noderandom="0" delay="10.00" nodedelay="55.00" useanimation="0" speed="0.040" nodefilter="" returntohorizon="0.000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" rubberband="0" contextvr="1" lockedkeyboardzoom="0" simulatemass="1" hideabout="1" speedwheel="1" contextprojections="1" dblclickfullscreen="0" contextfullscreen="1" invertwheel="1">
+      <menulink url="https://vr360.com.vn" text="POWERED BY VR360"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata source="" description="" comment="" datetime="" latitude="" author="" title="" nodeid="master" tags="" customnodeid="" copyright="" info="" longitude="" heading="0"/>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan01" zoomlevels="7" height="9933" title="" type="file" width="7016" transparent="0" tileformat="jpg" floorplannorth="0"/>
+</tour>
