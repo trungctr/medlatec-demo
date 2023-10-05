@@ -361,7 +361,7 @@ function pano2vrSkin(player,base) {
 			}
 		}
 		me._powered_by.onclick=function (e) {
-			player.openUrl("https:\/\/vr360.com.vn","_blank");
+			player.openUrl("https:\/\/trungctr.com","_blank");
 		}
 		me._powered_by.onmouseover=function (e) {
 			me.elementMouseOver['powered_by']=true;
@@ -5011,8 +5011,14 @@ function pano2vrSkin(player,base) {
 		}
 		el=me._logo=document.createElement('div');
 		els=me._logo__img=document.createElement('img');
-		els.className='ggskin ggskin_svg';
-		me._logo__img.setAttribute('src',basePath + 'images/logo.svg');
+		els.className = 'ggskin ggskin_svg';
+		if (UI_text.english)
+		{
+			me._logo__img.setAttribute('src', basePath + 'images/logoEN.png');
+		} else
+		{
+			me._logo__img.setAttribute('src', basePath + 'images/logo.svg');
+		}
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -13528,8 +13534,14 @@ function pano2vrSkin(player,base) {
 		me._container_hd.appendChild(me._tt_click);
 		el=me._svg_1=document.createElement('div');
 		els=me._svg_1__img=document.createElement('img');
-		els.className='ggskin ggskin_svg';
-		me._svg_1__img.setAttribute('src',basePath + 'images/svg_1.svg');
+		els.className = 'ggskin ggskin_svg';
+		if (UI_text.english)
+		{
+			me._svg_1__img.setAttribute('src',basePath + 'images/svg_1EN.png'); // logo intro
+		} else
+		{
+			me._svg_1__img.setAttribute('src',basePath + 'images/svg_1.svg'); // logo intro
+		}
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);

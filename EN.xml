@@ -26,7 +26,7 @@
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
       </sound>
       <sound tilt="-4.410" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="22.200" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F1.m4a"/>
+        <source url="media/c1.mp3"/><!--intro sound-->
       </sound>
     </media>
     <transition softedge="0" zoomfov="50" zoomin="6" enabled="1" blendtime="1" zoomafterinfov="80" zoomafteroutfov="20" type="crossdissolve" zoomout="2" zoomspeed="1.5" zoomoutpause="0" blendcolor="0x000000"/>
@@ -62,7 +62,7 @@
     </hotspots>
     <media>
       <sound tilt="-12.510" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-340.690" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F2.m4a"/>
+        <source url="media/c2.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.300" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -106,7 +106,7 @@
 
     <media>
       <sound tilt="-7.090" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-34.280" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F3.m4a"/>
+        <source url="media/c3.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -239,7 +239,7 @@
     </hotspots>
     <media>
       <sound tilt="-8.060" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-86.700" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F4.m4a"/>
+        <source url="media/c4.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -332,7 +332,7 @@
 
     <media>
       <sound tilt="-8.260" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-173.380" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F5.m4a"/>
+        <source url="media/c5.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -378,7 +378,7 @@
     </hotspots>
     <media>
       <sound tilt="-13.920" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-337.110" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F6.m4a"/>
+        <source url="media/c6.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -418,7 +418,7 @@
     </hotspots>
     <media>
       <sound tilt="-18.640" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-59.500" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F7.m4a"/>
+        <source url="media/c7.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -469,7 +469,7 @@
     </hotspots>
     <media>
       <sound tilt="-18.520" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-302.510" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F8.m4a"/>
+        <source url="media/c8.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -574,7 +574,7 @@
     </hotspots>
     <media>
       <sound tilt="-28.060" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-220.700" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F9.m4a"/>
+        <source url="media/c9.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -616,7 +616,7 @@
     </hotspots>
     <media>
       <sound tilt="-10.660" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-352.750" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F10.m4a"/>
+        <source url="media/c10.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -659,7 +659,7 @@
     </hotspots>
     <media>
       <sound tilt="-11.920" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-24.160" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F11.m4a"/>
+        <source url="media/c11.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -705,7 +705,7 @@
     </hotspots>
     <media>
       <sound tilt="-14.730" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-5.340" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F12.m4a"/>
+        <source url="media/c12.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -745,7 +745,7 @@
     </hotspots>
     <media>
       <sound tilt="-5.110" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-4.850" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F13.m4a"/>
+        <source url="media/c13.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -790,7 +790,7 @@
     </hotspots>
     <media>
       <sound tilt="-6.130" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-6.120" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F14.ogg"/>
+        <source url="media/c14.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
@@ -829,7 +829,7 @@
     </hotspots>
     <media>
       <sound tilt="-7.780" id="Element01" field="90.000" nodechangekeep="0" tiltsize="10.000" level="1.000" mode="2" loop="1" pan="-281.320" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
-        <source url="media/F15+F16.mp3"/>
+        <source url="media/c15_16.mp3"/>
       </sound>
       <sound tilt="-1.000" id="_background" field="90.000" nodechangekeep="0" tiltsize="10.000" level="0.200" mode="0" loop="0" pan="-1.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000">
         <source url="media/Victory-TwoStepsFromHell-3890867.mp3"/>
